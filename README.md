@@ -1,6 +1,6 @@
 # AI Link Embedder #
 ## Introduction ##
-This abomination of a code was created to solve my fiance's issue with migrating Adobe Illustrator files to different machine. It comes with absolutely no guarantee, but it seems to work. Good luck.
+This abomination of a code was created to solve my fiancé issue with migrating Adobe Illustrator files to different machine. It comes with absolutely no guarantee, but it seems to work. Good luck.
 
 ## Requirements ##
 Running this script requires:
