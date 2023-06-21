@@ -1,16 +1,10 @@
 # AI Link Embedder #
 ## Introduction ##
 This abomination of a code was created to solve my fiancé issue with migrating Adobe Illustrator files to different machine. It comes with absolutely no guarantee, but it seems to work. Good luck.
-
 ## Requirements ##
 Running this script requires:
 - Windows OS (macOS is not supported for now)
 - Adobe Illustrator installed
-## Setup ##
-To install necessary dependency you need to run:
-```shell
-pip install -r requirement.txt
-```
 ## Run ##
 Usage:
 ```
@@ -31,6 +25,6 @@ options:
   -s SUFFIX, --suffix SUFFIX
 ```
 Example:
-```shell
-python3 main.py -o -d C:\Users\Username\Documents\ai_embedded -r C:\Users\Username\Documents\
+```
+python -m ai_embedder
 ```
